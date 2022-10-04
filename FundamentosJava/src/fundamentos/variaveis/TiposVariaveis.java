@@ -10,4 +10,5 @@ public class TiposVariaveis {
     double tipoDouble = 1275.33;
     boolean tipoLogico = true;
     char tipoChar = 'A';
+
 }
