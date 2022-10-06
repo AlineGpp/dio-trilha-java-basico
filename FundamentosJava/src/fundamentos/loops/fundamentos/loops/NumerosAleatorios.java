@@ -15,14 +15,15 @@ public class NumerosAleatorios {
       numerosAleatorios[i] = numero;
     }
 
+    System.out.println("Números");
     for (int numero : numerosAleatorios) {
-      System.out.println(numero);
+      System.out.print(numero + " ");
 
     }
 
-    System.out.println("Números sucessores:");
+    System.out.println("\nNúmeros sucessores:");
     for (int numero : numerosAleatorios) {
-      System.out.println(numero + 1);
+      System.out.print((numero + 1) + " ");
 
     }
   }
