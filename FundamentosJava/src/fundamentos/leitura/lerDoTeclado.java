@@ -1,10 +1,7 @@
 package fundamentos.leitura;
 
-import java.net.Inet4Address;
 import java.util.Locale;
 import java.util.Scanner;
-
-import javax.swing.GroupLayout.Alignment;
 
 public class lerDoTeclado {
   public static void main(String[] args) {
