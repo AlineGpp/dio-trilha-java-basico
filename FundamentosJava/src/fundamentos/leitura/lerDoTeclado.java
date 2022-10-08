@@ -19,6 +19,8 @@ public class lerDoTeclado {
 
     System.out.println("Olá, " + nome + " sua idade é " +
         idade + " e sua altura é " + altura);
+
+    scanner.close();
   }
 
 }
