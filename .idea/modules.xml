@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArgumentosTerminal/ArgumentosTerminal.iml" filepath="$PROJECT_DIR$/ArgumentosTerminal/ArgumentosTerminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FundamentosJava/FundamentosJava.iml" filepath="$PROJECT_DIR$/FundamentosJava/FundamentosJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FundamentosJava/src/FundamentosJava1.iml" filepath="$PROJECT_DIR$/FundamentosJava/src/FundamentosJava1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
     </modules>
   </component>
